@@ -4,7 +4,7 @@
 
 Across every company I have built, advised or worked inside, there is a recurring and unavoidable truth: talent is the only moat.
 
-Execution speed, GTM, distribution and great products are critical. But they are outputs of exceptional people building the culture and systems that create them. Without exceptional folks and an exceptional culture, none of them is possible.
+Execution speed, GTM, distribution and great products are critical. But they are outputs of people building the culture and systems that create them. Without exceptional folks and an exceptional culture, it's impossible.
 
 Nearly all hiring systems output the best candidates a company is able to reach and engage. They call that the talent market. It is not. It is the visible fraction of it.
 
