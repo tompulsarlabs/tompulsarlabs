@@ -1,16 +1,26 @@
-## Hi there 👋
+# Talent Engineering
 
-<!--
-**tompulsarlabs/tompulsarlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building products, agents and operating systems for category defining companies to uncover, eval and win exceptional talent.**
 
-Here are some ideas to get you started:
+Across every company I have built, advised or worked inside, there is a recurring and unavoidable truth: talent is the only moat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Execution speed, GTM, distribution and great products are critical. But they are outputs of exceptional people building the culture and systems that create them. Without exceptional folks and an exceptional culture, none of them is possible.
+
+Nearly all hiring systems output the best candidates a company is able to reach and engage. They call that the talent market. It is not. It is the visible fraction of it.
+
+The generational recruiting problem is identifying, engaging and winning the exceptional builders and operators who were never applicants at all. For sure it's not hiring the best sourced or inbound applicant.
+
+I certainly do not claim to have solved this. I am building towards it by rethinking the talent and recruiting operating model from first principles. That means connecting market intelligence, workforce planning, performance evaluation, relationships and network effects, and the inputs that output exceptional cultures. For an agentic future built on human judgement and taste.
+
+This is for companies trying to define a category, reshape markets and industries, and compete for the top 0.1%. I do not mean pedigree. Company logos and Ivy League credentials are neither proof nor disqualification.
+
+## Building
+
+- **Radar** `early build` — an agentic recruiter working for the candidate, not the company.
+- **Scout** `in build` — maps the best people in the world for future roles, then orchestrates founders, investors, advisers and TA to build genuine relationships before there is a role to pitch.
+- **Sybil** `in the lab` — behaviour-derived AI capability assessment for organisations.
+- **[Ivy](https://github.com/tompulsarlabs/ivy)** `running` — scheduled agents that scout work, dispatch it, verify outcomes and learn from the evidence.
+
+Also public: **[writing-voice-skill](https://github.com/tompulsarlabs/writing-voice-skill)** and **[BrightPaws](https://github.com/tompulsarlabs/BrightPaws)**.
+
+More about my career at **[tomgreen.ai](https://tomgreen.ai)**.
