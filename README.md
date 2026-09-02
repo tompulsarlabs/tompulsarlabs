@@ -10,7 +10,7 @@ Nearly all hiring systems output the best candidates a company is able to reach 
 
 The generational recruiting problem is identifying, engaging and winning the exceptional builders and operators who were never applicants at all. For sure it's not hiring the best sourced or inbound applicant.
 
-I certainly do not claim to have solved this. I am building towards it by rethinking the talent and recruiting operating model from first principles. That means connecting market intelligence, workforce planning, performance evaluation, relationships and network effects, and the inputs that output exceptional cultures. For an agentic future built on human judgement and taste.
+I certainly do not claim to have solved this. I am building towards it by rethinking the talent and recruiting operating model from first principles. That means connecting market intelligence, workforce planning, performance evaluation, relationships and network effects, and the (often proprietary) inputs that output exceptional cultures. For an agentic future built on human judgement.
 
 This is for companies trying to define a category, reshape markets and industries, and compete for the top 0.1% (company logos and Ivy League credentials are neither proof nor disqualification).
 
