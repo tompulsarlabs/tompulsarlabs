@@ -1,6 +1,6 @@
 # Talent Engineering
 
-**Building products, agents and operating systems for category defining companies to uncover, eval and win exceptional talent.**
+**Building products, agents and operating systems to uncover, eval and win exceptional talent.**
 
 Across every company I have built, advised or worked inside, there is a recurring and unavoidable truth: talent is the only moat.
 
@@ -12,7 +12,7 @@ The generational recruiting problem is identifying, engaging and winning excepti
 
 I certainly do not claim to have solved this. I am building towards it by rethinking the talent and recruiting operating model from first principles. That means connecting market intelligence, workforce planning, performance evaluation, relationships and network effects, and the (often proprietary) inputs that output exceptional cultures. For an agentic future built on human judgement.
 
-This is for companies trying to define a category, reshape markets and industries, and compete for the top 0.1% (company logos and Ivy League credentials are neither proof nor disqualification).
+This is for companies trying to define a category, reshape markets and industries, and compete for the top 0.1% (company logos and education credentials are neither proof nor disqualification).
 
 ## Building
 
