@@ -8,7 +8,7 @@ Execution speed, GTM, distribution and great products are critical. But they are
 
 Nearly all hiring systems output the best candidates a company is able to reach and engage. They call that the talent market. It is not. It is the visible fraction of it.
 
-The generational recruiting problem is identifying, engaging and winning the exceptional builders and operators who were never applicants at all. For sure it's not hiring the best sourced or inbound applicant.
+The generational recruiting problem is identifying, engaging and winning exceptional builders and operators who were never applicants at all. For sure it's not hiring the best sourced or inbound applicant.
 
 I certainly do not claim to have solved this. I am building towards it by rethinking the talent and recruiting operating model from first principles. That means connecting market intelligence, workforce planning, performance evaluation, relationships and network effects, and the (often proprietary) inputs that output exceptional cultures. For an agentic future built on human judgement.
 
