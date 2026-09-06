@@ -16,7 +16,7 @@ This is for companies trying to define a category, reshape markets and industrie
 
 ## Building
 
-- **Radar** `early build` — an agentic recruiter working for the candidate, not the company.
+- **Radar** `early build` — an agentic recruiter working for the candidate; focusing on leadership and exec roles for now.
 - **Scout** `in build` — maps the best people in the world for future roles, then orchestrates founders, investors, advisers and TA to build genuine relationships before there is a role to pitch.
 - **Sybil** `in the lab` — behaviour-derived AI capability assessment for organisations.
 - **[Ivy](https://github.com/tompulsarlabs/ivy)** `running` — scheduled agents that scout work, dispatch it, verify outcomes and learn from the evidence.
