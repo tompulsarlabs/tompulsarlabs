@@ -1,6 +1,6 @@
 # Talent Engineering
 
-**Building products, agents and operating systems to uncover, eval and win top 0.1% talent.**
+**Building products, agents and operating systems to uncover, eval and win 0.1% talent.**
 
 Across every company I have built, advised or worked inside, there is a recurring and unavoidable truth: talent is the only moat.
 
