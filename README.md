@@ -1,4 +1,4 @@
-# Talent & People Engineering
+# Talent Engineering
 
 **Building products, agents and operating systems to uncover, eval and win 0.1% talent.**
 
